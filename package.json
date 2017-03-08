@@ -1,0 +1,23 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Test av bot rammeverk MS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitr/chatbot.git"
+  },
+  "author": "Sigbjørn Trageton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sitr/chatbot/issues"
+  },
+  "homepage": "https://github.com/sitr/chatbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
